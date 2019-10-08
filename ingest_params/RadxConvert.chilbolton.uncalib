@@ -647,7 +647,7 @@ override_site_name = TRUE;
 // Type: string
 //
 
-site_name = "Chilbolton Observatory";
+site_name = "Chilbolton";
 
 //======================================================================
 //
@@ -1239,7 +1239,7 @@ user_defined_global_attributes = {
   {
     name = "platform_name",
     attrType = ATTR_STRING,
-    val = "chilbolton"
+    val = "Chilbolton Observatory"
   }
   ,
   {
